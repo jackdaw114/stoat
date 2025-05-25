@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/jackdaw/GitHub/stoat/build/cmake_install.cmake",
-		"/home/jackdaw/GitHub/stoat/build/lib/cmake_install.cmake",
-		"/home/jackdaw/GitHub/stoat/build/src/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
