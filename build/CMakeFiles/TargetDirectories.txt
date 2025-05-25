@@ -1,0 +1,12 @@
+/home/jackdaw/GitHub/stoat/build/CMakeFiles/edit_cache.dir
+/home/jackdaw/GitHub/stoat/build/CMakeFiles/rebuild_cache.dir
+/home/jackdaw/GitHub/stoat/build/lib/CMakeFiles/StoatPrivate.dir
+/home/jackdaw/GitHub/stoat/build/lib/CMakeFiles/edit_cache.dir
+/home/jackdaw/GitHub/stoat/build/lib/CMakeFiles/rebuild_cache.dir
+/home/jackdaw/GitHub/stoat/build/lib/CMakeFiles/StoatPrivate_autogen_timestamp_deps.dir
+/home/jackdaw/GitHub/stoat/build/lib/CMakeFiles/StoatPrivate_autogen.dir
+/home/jackdaw/GitHub/stoat/build/src/CMakeFiles/stoat.dir
+/home/jackdaw/GitHub/stoat/build/src/CMakeFiles/edit_cache.dir
+/home/jackdaw/GitHub/stoat/build/src/CMakeFiles/rebuild_cache.dir
+/home/jackdaw/GitHub/stoat/build/src/CMakeFiles/stoat_autogen_timestamp_deps.dir
+/home/jackdaw/GitHub/stoat/build/src/CMakeFiles/stoat_autogen.dir

@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/jackdaw/GitHub/stoat/build/lib",
+  "command": "/sbin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DSTOAT_SHAREDLIBRARY -DStoatPrivate_EXPORTS -I/home/jackdaw/GitHub/stoat/build/lib/StoatPrivate_autogen/include -I/home/jackdaw/GitHub/stoat/lib/app -I/home/jackdaw/GitHub/stoat/lib/. -I/home/jackdaw/GitHub/stoat/lib/vendor/entt -I/home/jackdaw/GitHub/stoat/lib/components -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtOpenGL -std=gnu++17 -fPIC -Wno-unknown-warning-option -fPIC -o CMakeFiles/StoatPrivate.dir/StoatPrivate_autogen/mocs_compilation.cpp.o -c /home/jackdaw/GitHub/stoat/build/lib/StoatPrivate_autogen/mocs_compilation.cpp",
+  "file": "/home/jackdaw/GitHub/stoat/build/lib/StoatPrivate_autogen/mocs_compilation.cpp",
+  "output": "lib/CMakeFiles/StoatPrivate.dir/StoatPrivate_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/jackdaw/GitHub/stoat/build/lib",
+  "command": "/sbin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DSTOAT_SHAREDLIBRARY -DStoatPrivate_EXPORTS -I/home/jackdaw/GitHub/stoat/build/lib/StoatPrivate_autogen/include -I/home/jackdaw/GitHub/stoat/lib/app -I/home/jackdaw/GitHub/stoat/lib/. -I/home/jackdaw/GitHub/stoat/lib/vendor/entt -I/home/jackdaw/GitHub/stoat/lib/components -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtOpenGL -std=gnu++17 -fPIC -Wno-unknown-warning-option -fPIC -o CMakeFiles/StoatPrivate.dir/app/stapplication.cpp.o -c /home/jackdaw/GitHub/stoat/lib/app/stapplication.cpp",
+  "file": "/home/jackdaw/GitHub/stoat/lib/app/stapplication.cpp",
+  "output": "lib/CMakeFiles/StoatPrivate.dir/app/stapplication.cpp.o"
+},
+{
+  "directory": "/home/jackdaw/GitHub/stoat/build/lib",
+  "command": "/sbin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DSTOAT_SHAREDLIBRARY -DStoatPrivate_EXPORTS -I/home/jackdaw/GitHub/stoat/build/lib/StoatPrivate_autogen/include -I/home/jackdaw/GitHub/stoat/lib/app -I/home/jackdaw/GitHub/stoat/lib/. -I/home/jackdaw/GitHub/stoat/lib/vendor/entt -I/home/jackdaw/GitHub/stoat/lib/components -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtOpenGL -std=gnu++17 -fPIC -Wno-unknown-warning-option -fPIC -o CMakeFiles/StoatPrivate.dir/app/mainwindow.cpp.o -c /home/jackdaw/GitHub/stoat/lib/app/mainwindow.cpp",
+  "file": "/home/jackdaw/GitHub/stoat/lib/app/mainwindow.cpp",
+  "output": "lib/CMakeFiles/StoatPrivate.dir/app/mainwindow.cpp.o"
+},
+{
+  "directory": "/home/jackdaw/GitHub/stoat/build/lib",
+  "command": "/sbin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DSTOAT_SHAREDLIBRARY -DStoatPrivate_EXPORTS -I/home/jackdaw/GitHub/stoat/build/lib/StoatPrivate_autogen/include -I/home/jackdaw/GitHub/stoat/lib/app -I/home/jackdaw/GitHub/stoat/lib/. -I/home/jackdaw/GitHub/stoat/lib/vendor/entt -I/home/jackdaw/GitHub/stoat/lib/components -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtOpenGL -std=gnu++17 -fPIC -Wno-unknown-warning-option -fPIC -o CMakeFiles/StoatPrivate.dir/menubar/menubar.cpp.o -c /home/jackdaw/GitHub/stoat/lib/menubar/menubar.cpp",
+  "file": "/home/jackdaw/GitHub/stoat/lib/menubar/menubar.cpp",
+  "output": "lib/CMakeFiles/StoatPrivate.dir/menubar/menubar.cpp.o"
+},
+{
+  "directory": "/home/jackdaw/GitHub/stoat/build/lib",
+  "command": "/sbin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DSTOAT_SHAREDLIBRARY -DStoatPrivate_EXPORTS -I/home/jackdaw/GitHub/stoat/build/lib/StoatPrivate_autogen/include -I/home/jackdaw/GitHub/stoat/lib/app -I/home/jackdaw/GitHub/stoat/lib/. -I/home/jackdaw/GitHub/stoat/lib/vendor/entt -I/home/jackdaw/GitHub/stoat/lib/components -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtOpenGL -std=gnu++17 -fPIC -Wno-unknown-warning-option -fPIC -o CMakeFiles/StoatPrivate.dir/viewport/openglwindow.cpp.o -c /home/jackdaw/GitHub/stoat/lib/viewport/openglwindow.cpp",
+  "file": "/home/jackdaw/GitHub/stoat/lib/viewport/openglwindow.cpp",
+  "output": "lib/CMakeFiles/StoatPrivate.dir/viewport/openglwindow.cpp.o"
+},
+{
+  "directory": "/home/jackdaw/GitHub/stoat/build/src",
+  "command": "/sbin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/jackdaw/GitHub/stoat/build/src/stoat_autogen/include -I/home/jackdaw/GitHub/stoat/src/../lib/stapplication -I/home/jackdaw/GitHub/stoat/lib/app -I/home/jackdaw/GitHub/stoat/lib/. -I/home/jackdaw/GitHub/stoat/lib/vendor/entt -I/home/jackdaw/GitHub/stoat/lib/components -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/stoat.dir/stoat_autogen/mocs_compilation.cpp.o -c /home/jackdaw/GitHub/stoat/build/src/stoat_autogen/mocs_compilation.cpp",
+  "file": "/home/jackdaw/GitHub/stoat/build/src/stoat_autogen/mocs_compilation.cpp",
+  "output": "src/CMakeFiles/stoat.dir/stoat_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/jackdaw/GitHub/stoat/build/src",
+  "command": "/sbin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/jackdaw/GitHub/stoat/build/src/stoat_autogen/include -I/home/jackdaw/GitHub/stoat/src/../lib/stapplication -I/home/jackdaw/GitHub/stoat/lib/app -I/home/jackdaw/GitHub/stoat/lib/. -I/home/jackdaw/GitHub/stoat/lib/vendor/entt -I/home/jackdaw/GitHub/stoat/lib/components -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/stoat.dir/main.cpp.o -c /home/jackdaw/GitHub/stoat/src/main.cpp",
+  "file": "/home/jackdaw/GitHub/stoat/src/main.cpp",
+  "output": "src/CMakeFiles/stoat.dir/main.cpp.o"
+}
+]

@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+cb13371555f125752502a4d1a84d3ee2 lib/CMakeFiles/StoatPrivate_autogen
+e3faa758d775c4979f51d65c25e12ac0 lib/StoatPrivate_autogen/timestamp
+20822e66126e176e0ae00c47b2f2252d src/CMakeFiles/stoat_autogen
+74251b2e4fb0f9c5df3b118c706d7fd4 src/stoat_autogen/timestamp

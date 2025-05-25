@@ -1,0 +1,29 @@
+cmake_minimum_required(VERSION 3.18.0)
+
+set(SUPPORTED_LANGUAGES CXX C)
+set(QT_VERSION 5)
+project(stoat VERSION 1.0.0 LANGUAGES ${SUPPORTED_LANGUAGES})
+
+option(BUILD_WITH_QT6 "Build against Qt 6" OFF)
+
+if (BUILD_WITH_QT6)
+    set(MIN_QT_VERSION 6.0.0)
+    set(MIN_FRAMEWORKS_VERSION 6.0.0)
+else()
+    set(MIN_QT_VERSION 5.15.0)
+    set(MIN_FRAMEWORKS_VERSION 5.44.0)
+endif()
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTORCC ON)
+set(CMAKE_AUTOUIC ON)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+find_package(Qt${QT_VERSION} COMPONENTS Widgets Network Core Gui OpenGL REQUIRED)
+
+
+add_subdirectory(lib)
+add_subdirectory(src)
