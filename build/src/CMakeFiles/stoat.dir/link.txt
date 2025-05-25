@@ -1,1 +1,0 @@
-/sbin/c++ -Wl,--dependency-file=CMakeFiles/stoat.dir/link.d CMakeFiles/stoat.dir/stoat_autogen/mocs_compilation.cpp.o CMakeFiles/stoat.dir/main.cpp.o -o stoat  -Wl,-rpath,/home/jackdaw/GitHub/stoat/build/lib ../lib/libStoatPrivate.so /usr/lib/libQt5Widgets.so.5.15.17 /usr/lib/libQt5Gui.so.5.15.17 /usr/lib/libQt5Core.so.5.15.17
